@@ -1,6 +1,6 @@
-# Foxly The Simple URL Shortener
+# Foxly The Simple URL Management
 
-A free and user friendly simple URL shortener built with Laravel. This is an alpha version and may contain bugs.
+A free and user friendly simple URL management like url shortener built with Laravel. This is an alpha version and may contain bugs.
 Since this is my first project, it's not perfect yet.
 
 ## Features
