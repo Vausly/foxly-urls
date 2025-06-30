@@ -1,4 +1,4 @@
-# Foxly The Simple URL Management
+# Foxly - The Simple URL Management
 
 A free and user friendly simple URL management like url shortener built with Laravel. This is an alpha version and may contain bugs.
 Since this is my first project, it's not perfect yet.
@@ -24,8 +24,8 @@ Since this is my first project, it's not perfect yet.
 ## Installation
 
 ```bash
-git clone https://github.com/Vausly/foxly-url-shortener.git
-cd foxly-url-shortener
+git clone https://github.com/Vausly/foxly-urls.git
+cd foxly-urls
 cp .env.example .env
 composer install
 php artisan key:generate
